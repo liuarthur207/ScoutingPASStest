@@ -33,7 +33,9 @@ var config_data = `
       "code": "gg",
       "type": "text",
       "size": 15,
-      "maxSize": 55
+      "maxSize": 55,
+      "required": "true",
+      "defaultValue": ""
     },
     { "name": "Match #",
       "code": "m",
