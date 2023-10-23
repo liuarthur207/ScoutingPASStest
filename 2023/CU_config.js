@@ -34,8 +34,6 @@ var config_data = `
       "type": "text",
       "size": 15,
       "maxSize": 55,
-      "required": "true",
-      "defaultValue": ""
     },
     { "name": "Match #",
       "code": "m",
