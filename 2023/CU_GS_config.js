@@ -62,7 +62,7 @@ var config_data = `
       "min": 1,
       "max": 99999
     },
-    { "name": "Auto Start Position",
+    { "name": "Auto Start Position (test)",
       "code": "as",
       "gsCol": "autoStartPosition",
       "type": "field_image",
