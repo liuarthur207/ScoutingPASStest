@@ -29,6 +29,12 @@ var config_data = `
       "defaultValue": "qm",
       "required": "true"
     },
+    { "name": "grug",
+      "code": "gg",
+      "type": "text",
+      "size": 15,
+      "maxSize": 55
+    },
     { "name": "Match #",
       "code": "m",
       "type": "match",
@@ -61,12 +67,6 @@ var config_data = `
       "filename": "2023/field_image.png",
       "clickRestriction": "one",
       "shape": "circle 5 black red true"
-    },
-    { "name": "grug",
-      "code": "gg",
-      "type": "text",
-      "size": 15,
-      "maxSize": 55
     }
   ],
   "auton": [
