@@ -69,6 +69,13 @@ var config_data = `
       "filename": "2023/field_image.png",
       "clickRestriction": "one",
       "shape": "circle 5 black red true"
+    },
+    { "name": "grug",
+      "code": "gg",
+      "gsCol": "grug",
+      "type": "text",
+      "size": 15,
+      "maxSize": 55,
     }
   ],
   "auton": [
