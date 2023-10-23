@@ -75,7 +75,7 @@ var config_data = `
       "gsCol": "grug",
       "type": "text",
       "size": 15,
-      "maxSize": 55,
+      "maxSize": 55
     }
   ],
   "auton": [
